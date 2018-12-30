@@ -25,5 +25,5 @@ PSV_LIGHTY['sprite'] = pygame.Surface((PSV_LIGHTY['LARGURA'],PSV_LIGHTY['ALTURA'
 PSV_LIGHTY['sprite'].fill((155,155,155))
 
 PSV_LAP = {
-    'CLOCK_DELAY' : 20
+    'RELOGIO_DELAY' : 20
 }
