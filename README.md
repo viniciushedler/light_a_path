@@ -1,4 +1,4 @@
-# light_a_patha
+# light_a_path
 # V 0.2
 Primeiro passo dado
 
